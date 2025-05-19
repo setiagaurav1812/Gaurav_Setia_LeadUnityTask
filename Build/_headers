@@ -1,0 +1,15 @@
+/Build/*.gz
+  Content-Encoding: gzip
+  Content-Type: application/octet-stream
+
+/Build/*.js.gz
+  Content-Encoding: gzip
+  Content-Type: application/javascript
+
+/Build/*.wasm.gz
+  Content-Encoding: gzip
+  Content-Type: application/wasm
+
+/Build/*.data.gz
+  Content-Encoding: gzip
+  Content-Type: application/octet-stream
