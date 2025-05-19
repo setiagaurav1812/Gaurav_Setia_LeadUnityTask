@@ -1,9 +1,9 @@
 const cacheName = "Edifyer-Gaurav_Setia_Task-0.1";
 const contentToCache = [
-    "Build/Convai.loader.js",
-    "Build/Convai.framework.js",
-    "Build/Convai.data",
-    "Build/Convai.wasm",
+    "Build/docs.loader.js",
+    "Build/docs.framework.js",
+    "Build/docs.data",
+    "Build/docs.wasm",
     "TemplateData/style.css"
 
 ];
